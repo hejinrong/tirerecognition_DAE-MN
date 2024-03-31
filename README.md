@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 # tire_recognition_CAMN
 
-# tire_recognition_CAMN
 # 环境要求
 matplotlib==3.7.4
 matplotlib-inline==0.1.6
